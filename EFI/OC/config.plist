@@ -800,7 +800,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02942301QXLNV9A8</string>
+			<string>Your MLB here</string>
 			<key>ROM</key>
 			<data>mK9lm8zJ</data>
 			<key>SpoofVendor</key>
@@ -808,9 +808,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZK061JV3Q</string>
+			<string>Your system serial number here</string>
 			<key>SystemUUID</key>
-			<string>B0F1371B-B82D-4EF7-B882-BC6506A4268D</string>
+			<string>Your system UUID here</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
